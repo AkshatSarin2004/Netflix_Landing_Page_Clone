@@ -27,3 +27,16 @@ A fully responsive clone of the Netflix landing page, built using only **HTML** 
 
 <img width="2940" height="1602" alt="image" src="https://github.com/user-attachments/assets/1ffdddaa-15eb-4361-bf01-4de71cba454f" />
 
+## 📁 Folder Structure
+
+netflix-landing-page-clone/
+├── index.html
+├── style.css
+└── README.md
+
+## 🧠 What I Learned
+
+- Building responsive UIs using Flexbox.
+- Structuring HTML pages semantically.
+- Designing modern landing pages with clean CSS-only layouts.
+
